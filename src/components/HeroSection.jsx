@@ -20,7 +20,7 @@ export default function HeroSection() {
       <div className="relative z-10 flex flex-col items-center text-center max-w-4xl mx-auto w-full">
         <div className="inline-flex items-center gap-2 bg-slate-800/80 border border-slate-700 rounded-full px-4 py-1.5 text-xs text-slate-400 mb-8">
           <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-          소프트웨어 마에스트로 2025 · 치지직 · SOOP
+          소프트웨어마에스트로 2026 · 치지직 · SOOP
         </div>
 
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">

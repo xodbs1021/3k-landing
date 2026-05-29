@@ -46,7 +46,7 @@ export default function CTASection() {
         )}
 
         <div className="flex flex-wrap items-center justify-center gap-3 mt-8">
-          {['소프트웨어 마에스트로 2025', '치지직 전용', 'SOOP 전용'].map((badge) => (
+          {['소프트웨어마에스트로 2026', '치지직 전용', 'SOOP 전용'].map((badge) => (
             <span
               key={badge}
               className="bg-white/10 border border-white/20 text-indigo-200 text-xs px-3 py-1.5 rounded-full"
