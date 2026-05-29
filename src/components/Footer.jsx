@@ -11,7 +11,7 @@ export default function Footer() {
             소프트웨어 마에스트로 팀 프로젝트 | 국내 한정
           </p>
           <p className="text-slate-600 text-xs mt-1">
-            치지직 · SOOP 전용 | © 2025 HiPick
+            치지직 · SOOP 전용 | © 2026 HiPick
           </p>
         </div>
       </div>
